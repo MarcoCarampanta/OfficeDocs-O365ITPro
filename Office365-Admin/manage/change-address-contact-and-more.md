@@ -41,6 +41,18 @@ To change other information on your company's profile page:
 
     An explanation of each field is provided below.
 
+
+
+Note that if you are using the New Admin Center, the steps vary slightly:
+
+1. Go to **Settings** on the left Rail > sub-menu **Settings** 
+
+2. Select the **Organization Profile** tab > then **Organization Information**
+
+3. Edit the information desired on the right hand side menu and click **Save Changes**
+
+
+
 ## What do these fields mean?
 
 |**Field**  |**Description**  |
